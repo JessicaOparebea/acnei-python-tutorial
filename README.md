@@ -71,7 +71,7 @@ By the end of this tutorial, you will be able to:
 
 ---
 
-## 📖 Recommended Resources
+## Recommended Resources
 
 - [Neuromatch Academy](https://neuromatch.io/neuroscience/) — Python + Computational Neuroscience
 - [Python Official Docs](https://docs.python.org/3/)
@@ -83,5 +83,5 @@ By the end of this tutorial, you will be able to:
 
 ## Acknowledgements
  
-Developed for the [ACNEI Computational Neuroscience Introductory School](https://acnei.org).
+Developed for the [ACNEI Computational Neuroscience Introductory School](https://acnei.org)
 
