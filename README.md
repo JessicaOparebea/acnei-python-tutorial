@@ -13,7 +13,7 @@ All examples use neuroscience-themed data — spike trains, membrane potentials,
 
 ---
 
-## 📚 Course Contents
+## Course Contents
 
 | # | Notebook | Topics |
 |---|----------|--------|
@@ -48,7 +48,7 @@ jupyter notebook
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 See [`requirements.txt`](requirements.txt). Core packages:
 
@@ -59,7 +59,7 @@ See [`requirements.txt`](requirements.txt). Core packages:
 
 ---
 
-## 🎯 Learning Goals
+## Learning Goals
 
 By the end of this tutorial, you will be able to:
 
@@ -81,11 +81,7 @@ By the end of this tutorial, you will be able to:
 
 ---
 
-## 🤝 Acknowledgements
-
-Course structure inspired by [Fabri Damicelli's Python Course](https://fabridamicelli.com/python-course/).  
+## Acknowledgements
+ 
 Developed for the [ACNEI Computational Neuroscience Introductory School](https://acnei.org).
 
----
-
-*Made with 🧠 + 🐍 in Accra, Ghana*
