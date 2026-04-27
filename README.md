@@ -77,7 +77,7 @@ By the end of this tutorial, you will be able to:
 - [Python Official Docs](https://docs.python.org/3/)
 - [NumPy Quickstart](https://numpy.org/doc/stable/user/quickstart.html)
 - [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
-- [Fabri Damicelli's Python Course](https://fabridamicelli.com/python-course/basics.html) — inspiration for this course
+- [Fabri Damicelli's Python Course](https://fabridamicelli.com/python-course/basics.html)
 
 ---
 
