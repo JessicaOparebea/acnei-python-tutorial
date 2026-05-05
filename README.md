@@ -17,7 +17,7 @@ All examples use neuroscience-themed data — spike trains, membrane potentials,
 
 | # | Notebook | Topics |
 |---|----------|--------|
-| 01 | [Setup & First Steps](notebooks/01_setup_first_steps.ipynb) | Python setup, Jupyter, first print statement |
+| 01 | [Setup & First Steps]([notebooks/01_setup_first_steps.ipynb](https://github.com/JessicaOparebea/acnei-python-tutorial/blob/main/Notebooks/01_setup_first_steps.ipynb)) | Python setup, Jupyter, first print statement |
 | 02 | [Variables & Data Types](notebooks/02_variables_data_types.ipynb) | int, float, str, bool, arithmetic, f-strings |
 | 03 | [Data Structures](notebooks/03_data_structures.ipynb) | Lists, Tuples, Dictionaries, Sets |
 | 04 | [Flow Control](notebooks/04_flow_control.ipynb) | if/elif/else, for loops, while, break/continue |
