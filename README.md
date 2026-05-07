@@ -9,7 +9,7 @@
 
 This is the companion notebook repository for **Python Tutorial I** at the ACNEI Computational Neuroscience Introductory School. It is designed for neuroscience students and researchers who are new to Python and want to use it as a tool for data analysis and modelling.
 
-All examples use neuroscience-themed data — spike trains, membrane potentials, brain regions, EEG signals — so you are learning Python *and* building intuition for the kinds of data you will work with as a computational neuroscientist.
+All examples use neuroscience themed data; spike trains, membrane potentials, brain regions, EEG signals. So you are learning Python *and* building intuition for the kinds of data you will work with as a computational neuroscientist.
 
 ---
 
