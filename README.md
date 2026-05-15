@@ -1,4 +1,4 @@
-# 🧠 ACNEI Python Tutorial — Computational Neuroscience School
+# ACNEI Python Tutorial — Computational Neuroscience School
 
 > **ACNEI Computational Neuroscience Introductory School | May 2026**  
 > Instructor: Jessica Oparebea · University of Ghana
@@ -28,7 +28,7 @@ All examples use neuroscience themed data; spike trains, membrane potentials, br
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Option 1 — Google Colab (recommended, no install needed)
 Click any notebook and then click the **"Open in Colab"** badge at the top of it.
